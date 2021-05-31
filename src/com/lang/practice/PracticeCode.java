@@ -1,4 +1,4 @@
-package com.lang.preactice;
+package com.lang.practice;
 
 import java.util.Iterator;
 import java.util.TreeSet;
