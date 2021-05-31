@@ -6,6 +6,7 @@ import net.sourceforge.tess4j.Tesseract;
 import net.sourceforge.tess4j.TesseractException;
 
 public class ReadImage {
+	
 	public String getImgText(String imageLocation) {
 		ITesseract instance = new Tesseract();
 		try {
