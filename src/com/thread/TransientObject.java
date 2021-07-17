@@ -15,7 +15,7 @@ import sun.security.util.Password;
  * from a repository, that entity is persistent. When 
  * you create a new entity, it is transient until persisted.
 */
-public class TransientObject implements Serializable {
+public class TransientObject implements Serializable{
 
 	int i = 10;
 	int j = 20;
