@@ -8,7 +8,6 @@ public class Anagrams {
 		String s=new String();
 		String s1=new String();
 		System.out.println(s.equals(s1));
-		
 	}
 
 	public static boolean isAnagram(String word, String anagram) {
